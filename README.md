@@ -8,7 +8,7 @@ A curated list of all (almost) machine learning and deep learning algorithms gro
 ## Contributing
 Please see [CONTRIBUTING](./CONTRIBUTING.md) for more details on how to contribute.
 
-
+BY - Pratham Bhatia
 
 ## List of Algorithms
 
